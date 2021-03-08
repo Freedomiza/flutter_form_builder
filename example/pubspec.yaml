@@ -21,7 +21,7 @@ dependency_overrides:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  intl_translation:
+  # intl_translation:
 
 flutter:
   uses-material-design: true
